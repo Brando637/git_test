@@ -1,0 +1,2 @@
+Hello from inside the Hello World file.
+This is a test from the curriculum in the Odin Project.
